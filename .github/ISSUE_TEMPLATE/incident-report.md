@@ -9,7 +9,7 @@ assignees: ""
 
 <!-- Do not leave any section empty. -->
 
-# 1. Executive Summary
+## 1. Executive Summary
 <!--
     Executive Summary should contain about up to 3 paragraphs to clarify what
     happened. Bear in mind that this is targeted for Business Users as well,
@@ -22,5 +22,5 @@ assignees: ""
 Redacted
 <!--EXAMPLE END-->
 
-# 2. Business Impact
+## 2. Business Impact
 ...

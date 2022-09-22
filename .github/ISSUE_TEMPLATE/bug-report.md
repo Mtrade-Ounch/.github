@@ -1,7 +1,8 @@
 ---
 name: Bug Report Template
 about: "For filing bugs. Please search for existing issues first. Also see CONTRIBUTING."
-
+labels: "bug"
+assignees: ""
 ---
 
 **Please Describe The Problematic Behavior**

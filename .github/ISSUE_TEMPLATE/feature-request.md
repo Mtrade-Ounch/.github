@@ -1,7 +1,8 @@
 ---
 name: Feature Request Template
 about: "For feature requests. Please search for existing issues first. Also see CONTRIBUTING."
-
+labels: "enhancement"
+assignees: ""
 ---
 
 **Please Describe The Problem To Be Solved**
